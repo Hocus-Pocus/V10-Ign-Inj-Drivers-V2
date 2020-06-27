@@ -1,0 +1,46 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +12V
+K POWER, PWR
+$ENDCMP
+#
+$CMP +5V
+K POWER, PWR
+$ENDCMP
+#
+$CMP C
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP CP1
+D Polarised capacitor
+$ENDCMP
+#
+$CMP DB15
+K connector
+$ENDCMP
+#
+$CMP GND
+K POWER, PWR
+$ENDCMP
+#
+$CMP Jumper-Pad
+D Connector, single row, 01x01
+K connector
+$ENDCMP
+#
+$CMP LED
+K LED
+$ENDCMP
+#
+$CMP Molex2x4MiniFit
+D Connector, double row, 02x04
+K connector
+$ENDCMP
+#
+$CMP R
+D Resistor
+K R DEV
+$ENDCMP
+#
+#End Doc Library
